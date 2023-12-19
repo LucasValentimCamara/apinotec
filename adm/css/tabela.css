@@ -1,0 +1,33 @@
+table.comBordaSimples {
+    border-collapse: collapse; /* CSS2 */
+    background: #FFFFFF;
+     width: 100%; 
+     height: 100px;
+    line-height: 3.0;
+
+     
+}
+ 
+table.comBordaSimples td {
+    border-style: none;
+    text-align:center;
+
+
+
+}
+ 
+table.comBordaSimples th {
+    border-style: none;
+    background: #CDC9C9;
+    text-align:center;
+    
+}
+
+hr {
+      border: 1px solid #f00;
+      color: #fff;
+      background-color: #fff;
+      height: 10px;
+      
+      
+    }
